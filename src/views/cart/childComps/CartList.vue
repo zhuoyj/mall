@@ -27,7 +27,7 @@ export default {
   },
   activated() {
     this.$refs.scroll.refresh();
-    // console.log("----");
+    // console.log("----") ;
   },
   methods: {
     click() {
